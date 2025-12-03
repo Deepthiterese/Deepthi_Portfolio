@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth scroll */
+html { scroll-behavior: smooth; }
+
+/* body transitions for theme switch */
+body {
+  transition: background 0.25s ease, color 0.25s ease;
+}
+
+/* small helper */
+.container {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
