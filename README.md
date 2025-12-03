@@ -29,3 +29,8 @@ It is optimized for performance, easy styling, and fast development.
 ```bash
 npm install
 2. Run the development server
+
+
+## Live Demo
+
+Check out the live version of this project here: https://deepthi-portfolio-82vv.vercel.app/
